@@ -1,3 +1,2 @@
 Now I am connecting github for practis
-I also update username and password setup for github in bash
 
