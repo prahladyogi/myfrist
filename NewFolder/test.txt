@@ -2,4 +2,10 @@ hererelseler
 
 ser
 ere
+<<<<<<< HEAD
 Hello How are you my dear what heppen
+=======
+akerh
+esrse;r
+serse'rer
+>>>>>>> a8258696bae071870c2fc310be8246d39a83924b
